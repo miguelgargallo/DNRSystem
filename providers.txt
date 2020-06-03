@@ -1,0 +1,23 @@
+//provider.txt file contains a list of providers seperated by a new line
+//each provider has a format connected to its name that follows a colon(:)
+//providers can have multiple formats of multiple lengths seperated by colons
+//maximum number of fomats per provider set in Main.java
+//each format follows a key: c - lowercase character, C - uppercase, i - integer
+//more types can be added easily with some simple additions in the formatMatch function
+//if more providers are listed then is set in Main.java, extra providers will not be read in
+//if more formats are listen then is set in Main.java, extra formats will not be read in
+provider-000:cccccc
+provider-001:Cccccc
+provider-002:cCcccc
+provider-003:ccCccc
+provider-004:cccCcc
+provider-005:ccccCc
+provider-006:cccccC
+provider-007:iccccc
+provider-008:cccccci
+provider-009:Cccccccci
+provider-010:ciiccC
+provider-011:ii:cc:CC
+provider-012:iicc
+provider-013:icicicicic
+provider-014:C:i

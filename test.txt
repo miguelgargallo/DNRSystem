@@ -1,0 +1,36 @@
+REGISTER tweetzone.org 1 year provider-000 abcdef
+REGISTER ownagemaster.com 10 days provider-000 Abcdef
+REGISTER ownagemaster.com 10 days provider-000 bbcdef
+REGISTER ownagemaster.com 10 days provider-000 bbcdef
+Register tumbleweed.xyz 10 months provider-010 q49fkL
+Register Bookface.gov 100 days provider-014 P
+REGISTER totallyRealUniversity.com 100 years provider-014 9
+REGISTER CoolCarGame.net 1 months provider-011 GG
+REGISTER REALDOMAIN.com 1 day provider-011 io
+REgister notrealdomain.com 2 days provider-011 11
+Register supernotrealdomain.net 3 days provider-013 1k1k1k1k1k
+register keepoloco.com 1 year provider-008 coffee1
+register 111111111.plu 1 day provider-006 allllO
+REGISTER coffee.com 12 days provider-007 1abcde
+REGISTER 22222222.ppp 1 month provider-001 Abbbbb
+REGISTER 1234567.net 12 months provider-000 ownage
+REGISTER magicbeans.com 1 day provider-012 11bb
+register 9999999.net 1 day provider-000 aaaaaa
+REGISTER
+RENEW tweetzone.org 100 days
+INFO tweetzone.org
+info Bookface.gov
+Info Bookface.net
+renew Bookface.gov 90 days
+info Bookface.gov
+renew Bookface.gov 11 months
+info Bookface.gov
+RENEW
+INFO
+delete tweetzone.org
+DELETE tweetzone.org
+DELETE
+notavalidcommand
+Help
+quit
+ 
